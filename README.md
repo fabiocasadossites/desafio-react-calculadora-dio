@@ -1,4 +1,4 @@
-![Imagem do projeto](src/img/pokedex.png)
+![Imagem do projeto](public/projeto.png)
 
 # Entrega de projeto - Criando Uma Calculadora Com React | DIO
 
@@ -21,7 +21,7 @@ Neste Desafio de Projeto vamos criar juntos uma calculadora utilizando React. Vo
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/fabiocasadossites/desafio-react-calculadora-dio.git
    ```
 
 2. Navegue até o diretório do projeto:
